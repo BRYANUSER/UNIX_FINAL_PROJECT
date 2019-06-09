@@ -1,0 +1,15 @@
+#include<iostream>
+#include<stdlib.h>
+using namespace std ;
+
+int main()
+{
+  int cmd ;
+  system("ls");
+  cout << "1.播放音樂\n2.刪除音樂\n3.輸出五線譜\n4.離開音樂庫\n請署入選擇 : "
+  while(cin>> cmd)
+  {
+    
+  }
+  return 0 ;
+}
